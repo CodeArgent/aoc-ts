@@ -1,4 +1,4 @@
-import { data } from "./data";
+import data from "./data.json";
 
 type myArray = Array<Array<string>>;
 const manipulatedData: myArray = [];

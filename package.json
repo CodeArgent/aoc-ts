@@ -2,7 +2,6 @@
   "name": "advent-of-code-day1",
   "version": "1.0.0",
   "description": "My Advent of Code challenges solved with TypeScript.",
-  "type": "module",
   "scripts": {
     "dev": "tsc -w"
   },
